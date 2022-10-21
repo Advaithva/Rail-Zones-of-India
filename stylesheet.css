@@ -6,13 +6,18 @@ nav {
     color: #fff;
     padding: 0 20px;
     width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
     background-blend-mode:lighten;
     background-color: rgba(11,10, 15, 0.7);
+    position:fixed;
+    top:0;
+    left:0;
 
 }
+
+
+
+
+
 
 
 nav li {
@@ -20,7 +25,13 @@ nav li {
 	padding:0.2cm 0.5cm;
 	display: inline-block;
 	text-align: center;
+
 }
+
+
+
+
+
 
 body {
 	margin:0;
@@ -28,9 +39,13 @@ body {
 	font-size:20px;
 }
 
+
+
+
+
 .heading {
 	background-image:url(https://th.bing.com/th/id/R.4a512bc20481d851f709238ffb4a7dda?rik=%2fCSa1i6moKjAFQ&riu=http%3a%2f%2fi.ytimg.com%2fvi%2fdvb8Tk0FM9w%2fmaxresdefault.jpg&ehk=5B8qSizfnuaF8eFNOwml53fnyF3Nrp6gN%2bRwpUPO%2fdo%3d&risl=&pid=ImgRaw&r=0);
-	font-size:70px;
+	font-size:90px;
 	background-size:cover;
 	background-position:center;
 	padding:5cm;
@@ -38,4 +53,75 @@ body {
 	background-blend-mode:lighten;
 	color:#0000ff;
 }
+
+
+
+
+
+
+.lastliofnav {
+
+	float:right;
+	position:fixed;
+	right:3cm;
+	background-color:#555;
+	background-bend-mode:lighten;
+	background-color:rgba(12, 12, 12, 0.6);
+	display:inline-block;
+	width:300px;
+
+
 }
+
+
+
+
+
+
+.lastliofnav li {
+
+	display:inline-block;
+	width:240px;
+	border:1px solid black;
+	
+
+}
+
+
+
+
+
+
+.lastliofnav:hover {
+	overflow-y:scroll;
+	height:500px;
+
+}
+
+
+.part1 {
+	background-image:linear-gradient(red, orange, yellow);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.5);
+	background-blend-mode:lighten;
+}
+
+
+
+
+.part2 {
+	background-image:linear-gradient(lightgreen, cyan, blue);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.5);
+	background-blend-mode:lighten;
+}
+
+
+
+
