@@ -123,5 +123,28 @@ body {
 }
 
 
+.img {
+	float:right;
+	padding:0.5cm;
+	border:1px solid black;
+	margin:0.5cm;
+
+}
 
 
+
+
+.part3 {
+	background-image:linear-gradient(violet, magenta, pink, red);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.5);
+	background-blend-mode:lighten;
+}
+
+footer {
+	background-color:#333;
+	color:#fff;
+}
