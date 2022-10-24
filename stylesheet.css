@@ -277,3 +277,17 @@ nav a {
 	background-color:rgba(128, 128, 128, 0.5);
 	background-blend-mode:lighten;
 }
+
+
+
+
+.part11 {
+	background-image:linear-gradient(lightgreen, cyan, #00DBFF, #009FFF, #004CFF, #000AFF, #000692 );
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.6);
+	background-blend-mode:lighten;
+}
+
