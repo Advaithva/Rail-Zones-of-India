@@ -100,7 +100,7 @@ body {
 
 
 .part1 {
-	background-image:linear-gradient(red, orange, yellow);
+	background-image:linear-gradient(red, orange, yellow,  #aaff00);
 	margin:1cm;
 	border:3px solid black;
 	padding:1cm;
@@ -135,7 +135,7 @@ body {
 
 
 .part3 {
-	background-image:linear-gradient(violet, magenta, pink, red);
+	background-image:linear-gradient(violet, magenta, pink);
 	margin:1cm;
 	border:3px solid black;
 	padding:1cm;
@@ -195,4 +195,85 @@ svg {
 
 nav a {
 	color:#fff;
+}
+
+
+.part5 {
+	background-image:linear-gradient(#777, #aaa, #fff);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.5);
+	background-blend-mode:lighten;
+}
+
+
+.part4 {
+	background-image:linear-gradient(#ffaaaa, brown, maroon, red);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.5);
+	background-blend-mode:lighten;
+}
+
+.github {
+	color:#fff;
+
+}
+
+.part6 {
+	background-image:linear-gradient(orange, yellow, #aaff00, green);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.5);
+	background-blend-mode:lighten;
+}
+
+.part7 {
+	background-image:linear-gradient(cyan, #99aaff, blue, violet, magenta, pink);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.5);
+	background-blend-mode:lighten;
+}
+
+
+
+
+.part8 {
+	background-image:linear-gradient(#777, #aaa, #fff);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.5);
+	background-blend-mode:lighten;
+}
+
+.part9 {	
+	background-image:linear-gradient(brown, maroon, red);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.5);
+	background-blend-mode:lighten;
+}
+
+
+.part10 {
+	background-image:linear-gradient(red, #ffaaaa, orange, #ffaa00, yellow, #aaff00, green);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.5);
+	background-blend-mode:lighten;
 }
