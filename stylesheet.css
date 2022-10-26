@@ -291,3 +291,26 @@ nav a {
 	background-blend-mode:lighten;
 }
 
+
+.part12 {
+	background-image:linear-gradient(violet, magenta, pink);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.5);
+	background-blend-mode:lighten;
+}
+
+
+
+
+.part11 {
+	background-image:linear-gradient(#777, #888, #999, #aaa, #bbb, #ccc, #ddd, #eee, #fff);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.6);
+	background-blend-mode:lighten;
+}
