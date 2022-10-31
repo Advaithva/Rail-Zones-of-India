@@ -29,6 +29,11 @@ nav li {
 }
 
 
+nav li:hover {
+	border-bottom:blue solid 1px;
+}
+
+
 
 
 
