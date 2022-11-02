@@ -30,7 +30,8 @@ nav li {
 
 
 nav li:hover {
-	border-bottom:blue solid 1px;
+	border-bottom:#99bbff solid 1px;
+	color:#99bbff;
 }
 
 
