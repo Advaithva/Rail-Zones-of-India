@@ -352,6 +352,19 @@ nav a {
 	background-blend-mode:lighten;
 }
 
+
+
+.part15 {
+	background-image:linear-gradient(red, #ffaaaa, orange, #ffaa00, yellow, #aaff00, green);
+	margin:1cm;
+	border:3px solid black;
+	padding:1cm;
+	font-size:28px;
+	background-color:rgba(128, 128, 128, 0.5);
+	background-blend-mode:lighten;
+}
+
+
 .locoimg {
 	width:auto;
 	height:auto;
